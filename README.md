@@ -2,7 +2,7 @@
 
 🔭 Currently maintaining [Tinderbotz](https://github.com/frederikme/TinderBotz) 🔭</br>
 </br>
-### 👯 I'M LOOKING FOR COLLABS FOR A NEW LARGE PROJECT 👯
+### 👯 I'M LOOKING FOR COLLABS ON A NEW LARGE PROJECT 👯
 1. IOS/Android mobile app development
 2. Backend server development in python
 3. Data mining/scraping
