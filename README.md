@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Tinderbotz](https://github.com/frederikme/TinderBotz) 🔭</br>
+🔭 Currently maintaining [Tinderbotz](https://github.com/frederikme/TinderBotz) 🔭</br>
 </br>
 👯 I'M LOOKING FOR COLLABS FOR A NEW LARGE PROJECT 👯
 1. IOS/Android mobile app development
