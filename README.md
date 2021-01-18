@@ -1,11 +1,11 @@
 ### Hi there 👋
-**Take a look at some of my projects**
+**Take a look at some of my projects**</br>
 [Tinderbotz](https://github.com/frederikme/TinderBotz)</br>
-[*] Easy to use tinder bot that can be used to swipe, message and even scrape data and images of users.</br>
+*Easy to use tinder bot that can be used to swipe, message and even scrape data and images of users.*</br>
 [Sandboxed](https://github.com/frederikme/sandbox-evasion)</br>
-[*] Check if you're code is running inside a virtual machine, made accessible by calling 1 simple function.</br>
+*Check if you're code is running inside a virtual machine, made accessible by calling 1 simple function.*</br>
 [GoogleImageScraper](https://github.com/frederikme/GoogleImageScraper)</br>
-[*] Simple scraper that makes a search query on Google and downloads the first X amount of images.</br>
+*Simple scraper that makes a search query on Google and downloads the first X amount of images.*</br>
 
 </br>
 ### 👯 I'M LOOKING FOR COLLABS ON A NEW LARGE PROJECT 👯
