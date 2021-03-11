@@ -6,6 +6,8 @@
 *Check if you're code is running inside a virtual machine, easy to use by calling 1 simple function.*</br>
 3. [GoogleImageScraper](https://github.com/frederikme/GoogleImageScraper)</br>
 *Scraper that makes a search query on Google and downloads the first X amount of images.*</br>
+4. [youtube-scraper](https://github.com/frederikme/youtube-scraper)</br>
+*Scraper that can search through youtube and download the videos (or audio) that meet your requirements.*</br>
 
 </br>
 
