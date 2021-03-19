@@ -8,6 +8,8 @@
 *Scraper that makes a search query on Google and downloads the first X amount of images.*</br>
 4. [youtube-scraper](https://github.com/frederikme/youtube-scraper)</br>
 *Scraper that can search through youtube and download the videos (or audio) that meet your requirements.*</br>
+5. [urbexer](https://github.com/frederikme/urbexer)</br>
+*URBEX locations in Europe stored as json and accessible through a simple webinterface.*</br>
 
 </br>
 
