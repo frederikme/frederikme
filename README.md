@@ -8,8 +8,6 @@
 *Check if you're code is running inside a virtual machine, easy to use by calling 1 simple function.*</br>
 3. [GoogleImageScraper](https://github.com/frederikme/GoogleImageScraper)</br>
 *Scraper that makes a search query on Google and downloads the first X amount of images.*</br>
-4. [urbexer](https://github.com/frederikme/urbexer)</br>
-*URBEX locations in Europe stored as json and accessible through a simple webinterface.*</br>
 
 </br>
 
