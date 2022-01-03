@@ -4,10 +4,8 @@
 *Easy to use tinder bot that can be used to swipe, message and even scrape data and images of users.*</br>
 2. [SakaSperto](https://chrome.google.com/webstore/detail/sakasperto-your-personal/mlgljdckfpichffpmnncmfdnednkgeib?hl=en)</br>
 *Chess chrome extension that suggests the best move, rates possible moves, and shows how your game on chess.com evolves.*</br>
-4. [sandboxed](https://github.com/frederikme/sandbox-evasion)</br>
+3. [sandboxed](https://github.com/frederikme/sandbox-evasion)</br>
 *Check if you're code is running inside a virtual machine, easy to use by calling 1 simple function.*</br>
-3. [GoogleImageScraper](https://github.com/frederikme/GoogleImageScraper)</br>
-*Scraper that makes a search query on Google and downloads the first X amount of images.*</br>
 
 </br>
 
